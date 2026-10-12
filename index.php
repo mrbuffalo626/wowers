@@ -165,7 +165,7 @@ $icons = ['ballpen' => '✒️', 'pencil' => '✏️', 'notebook' => '📓', 'ye
         <div class="row align-items-center g-3">
             <div class="col-lg-8">
                 <div class="eyebrow mb-2">Everything for class</div>
-                <h1 class="display-6 fw-bold mb-2">Stock up for a brighter school day.</h1>
+                <h1 class="display-6 fw-bold mb-2">utog</h1>
                 <p class="text-muted-custom mb-0">Choose your essentials, review your order, and check out with cash.</p>
             </div>
             <div class="col-lg-4 text-lg-end"><span class="badge rounded-pill bg-white text-success border px-3 py-2">6 everyday essentials</span></div>
